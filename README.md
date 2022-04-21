@@ -17,7 +17,7 @@ This is a small responsive portfolio made for our great wizard Harry Potter.
 
 ### Screenshot
 
-![](./images/screenshot.png)
+![](./images/screenshot.PNG)
 
 ### Links
 
